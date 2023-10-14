@@ -23,5 +23,9 @@ To set up and run this project on your local machine, follow these steps:
    
 2. **Set Up MongoDB**: Install and configure MongoDB. You will need to create a database for the application to store user data and posts.
 
+3. Go to the file server->index.js and change the URL on line 19.
+
+
+
 
 
