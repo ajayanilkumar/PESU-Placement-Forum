@@ -20,4 +20,8 @@ To set up and run this project on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/ajayanilkumar/PESU-Placement-Forum.git
+   
+2. **Set Up MongoDB**: Install and configure MongoDB. You will need to create a database for the application to store user data and posts.
+
+
 
